@@ -1,6 +1,5 @@
 # DJUANDA Emoticon
 
-By Muhammad Hajid al akhtar
 
 ## Installation
 
